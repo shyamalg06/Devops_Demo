@@ -1,1 +1,1 @@
-Welcome tp merge conflict demo on Edu1 branch
+Welcome to merge comflict demo on Edu2 branch
